@@ -2,7 +2,6 @@
   "name": "personal-portfolio",
   "version": "1.0.0",
   "description": "A little about me and my projects",
-  "license": "MIT",
   "scripts": {
     "develop": "gatsby develop",
     "build": "gatsby build",
@@ -10,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/maribelduran/personal-portfolio-v2.git"
+    "url": "https://github.com/DanBrit/updated-portfolio2"
   },
   "author": "Daniel Marshall",
   "dependencies": {
