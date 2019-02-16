@@ -3,7 +3,7 @@ module.exports = {
     title: "Daniel Marshall || Home",
     description:
       "",
-    siteUrl: "",
+    siteUrl: "https://danbrit.github.io/updated-portfolio2/",
     author: "DanielMarshall"
 
   },
