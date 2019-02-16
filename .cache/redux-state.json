@@ -1,0 +1,1740 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "layout": null,
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "/Users/daniel/Desktop/node/git/updated-portfolio.git/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/Users/daniel/Desktop/node/git/updated-portfolio.git/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "fd77235571bfb6ba7af885ec8ee4af33",
+        "description": "Plugin dev-404-page",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin dev-404-page": {
+      "resolve": "/Users/daniel/Desktop/node/git/updated-portfolio.git/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "Plugin dev-404-page",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/daniel/Desktop/node/git/updated-portfolio.git/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "3cead1007ae961a90762149d508b8c7d",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-page-creator": {
+      "resolve": "/Users/daniel/Desktop/node/git/updated-portfolio.git/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "id": "Plugin component-page-creator",
+      "name": "component-page-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/daniel/Desktop/node/git/updated-portfolio.git/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "packageJson": {
+        "name": "component-page-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "97ef8d8016b34ab25384ffb4dace7104",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-layout-creator": {
+      "resolve": "/Users/daniel/Desktop/node/git/updated-portfolio.git/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "id": "Plugin component-layout-creator",
+      "name": "component-layout-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createLayouts"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/daniel/Desktop/node/git/updated-portfolio.git/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "packageJson": {
+        "name": "component-layout-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "e024cbbd06de7c0bef957e4eeeb16e3d",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin internal-data-bridge": {
+      "resolve": "/Users/daniel/Desktop/node/git/updated-portfolio.git/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "Plugin internal-data-bridge",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/daniel/Desktop/node/git/updated-portfolio.git/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "edefdea23d43b292ac7dde07357edbe8",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin prod-404": {
+      "resolve": "/Users/daniel/Desktop/node/git/updated-portfolio.git/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "Plugin prod-404",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/daniel/Desktop/node/git/updated-portfolio.git/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "41af74ac70afab2057f2aed21725190f",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin query-runner": {
+      "resolve": "/Users/daniel/Desktop/node/git/updated-portfolio.git/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "Plugin query-runner",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage",
+        "onCreateLayout"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/daniel/Desktop/node/git/updated-portfolio.git/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "de7239b7f1d93b0fcfc7911381658181",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-manifest": {
+      "resolve": "/Users/daniel/Desktop/node/git/updated-portfolio.git/node_modules/gatsby-plugin-manifest",
+      "id": "Plugin gatsby-plugin-manifest",
+      "name": "gatsby-plugin-manifest",
+      "version": "1.0.27",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "Daniel Marshall",
+        "short_name": "DanielMarshall",
+        "start_url": "/",
+        "background_color": "#337ab7",
+        "theme_color": "#337ab7",
+        "display": "fullscreen",
+        "icon": "src/static/logo/favicon.png"
+      },
+      "nodeAPIs": [
+        "onPostBuild"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/daniel/Desktop/node/git/updated-portfolio.git/node_modules/gatsby-plugin-manifest",
+      "packageJson": {
+        "name": "gatsby-plugin-manifest",
+        "description": "Gatsby plugin which adds a manifest.webmanifest to make sites progressive web apps",
+        "version": "1.0.27",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "icons",
+          "manifest.webmanifest",
+          "progressive-web-app",
+          "pwa"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.20.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "eeb5263a4465489563504275b1be52ce",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-source-filesystem": {
+      "resolve": "/Users/daniel/Desktop/node/git/updated-portfolio.git/node_modules/gatsby-source-filesystem",
+      "id": "Plugin gatsby-source-filesystem",
+      "name": "gatsby-source-filesystem",
+      "version": "1.5.39",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images",
+        "name": "images"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/daniel/Desktop/node/git/updated-portfolio.git/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "1.5.39",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.1"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^1.3.6"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.9.250"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "bb012b2797857f444cd2e85a1cfa9091",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-google-analytics": {
+      "resolve": "/Users/daniel/Desktop/node/git/updated-portfolio.git/node_modules/gatsby-plugin-google-analytics",
+      "id": "Plugin gatsby-plugin-google-analytics",
+      "name": "gatsby-plugin-google-analytics",
+      "version": "1.0.31",
+      "pluginOptions": {
+        "plugins": [],
+        "trackingId": "",
+        "head": true
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [
+        "onRouteUpdate"
+      ],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/daniel/Desktop/node/git/updated-portfolio.git/node_modules/gatsby-plugin-google-analytics",
+      "packageJson": {
+        "name": "gatsby-plugin-google-analytics",
+        "description": "Gatsby plugin to add google analytics onto a site",
+        "version": "1.0.31",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "google analytics"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "842811e3856d49d4682310afaeec080c",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-sitemap": {
+      "resolve": "/Users/daniel/Desktop/node/git/updated-portfolio.git/node_modules/gatsby-plugin-sitemap",
+      "id": "Plugin gatsby-plugin-sitemap",
+      "name": "gatsby-plugin-sitemap",
+      "version": "1.2.20",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPostBuild"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/daniel/Desktop/node/git/updated-portfolio.git/node_modules/gatsby-plugin-sitemap",
+      "packageJson": {
+        "name": "gatsby-plugin-sitemap",
+        "description": "Gatsby plugin that automatically creates a sitemap for your site",
+        "version": "1.2.20",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Nicholas Young &lt;nicholas@nicholaswyoung.com&gt;"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "sitemap",
+            "version": "^1.12.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "522f7f8f84979b46b9fb5395637b80e1",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-sharp": {
+      "resolve": "/Users/daniel/Desktop/node/git/updated-portfolio.git/node_modules/gatsby-transformer-sharp",
+      "id": "Plugin gatsby-transformer-sharp",
+      "name": "gatsby-transformer-sharp",
+      "version": "1.6.23",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType",
+        "onPreExtractQueries"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/daniel/Desktop/node/git/updated-portfolio.git/node_modules/gatsby-transformer-sharp",
+      "packageJson": {
+        "name": "gatsby-transformer-sharp",
+        "description": "Gatsby transformer plugin for images using Sharp",
+        "version": "1.6.23",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "55f13ec8464cbf53696e214b7d481254",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-sharp": {
+      "resolve": "/Users/daniel/Desktop/node/git/updated-portfolio.git/node_modules/gatsby-plugin-sharp",
+      "id": "Plugin gatsby-plugin-sharp",
+      "name": "gatsby-plugin-sharp",
+      "version": "1.6.43",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/daniel/Desktop/node/git/updated-portfolio.git/node_modules/gatsby-plugin-sharp",
+      "packageJson": {
+        "name": "gatsby-plugin-sharp",
+        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
+        "version": "1.6.43",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "async",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "imagemin",
+            "version": "^5.2.2"
+          },
+          {
+            "name": "imagemin-pngquant",
+            "version": "5.0.1"
+          },
+          {
+            "name": "imagemin-webp",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.20.0"
+          },
+          {
+            "name": "svgo",
+            "version": "^0.7.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "b08f1471782a32790dc703e554f59204",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-react-helmet": {
+      "resolve": "/Users/daniel/Desktop/node/git/updated-portfolio.git/node_modules/gatsby-plugin-react-helmet",
+      "id": "Plugin gatsby-plugin-react-helmet",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "2.0.11",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/daniel/Desktop/node/git/updated-portfolio.git/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
+        "version": "2.0.11",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "react-helmet",
+          "seo",
+          "document",
+          "head",
+          "title",
+          "meta",
+          "link",
+          "script",
+          "base",
+          "noscript",
+          "style"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "matthews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": ">=5.1.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "912759094f85da8ececadb7fe07aa05b",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin default-site-plugin": {
+      "resolve": "/Users/daniel/Desktop/node/git/updated-portfolio.git",
+      "id": "Plugin default-site-plugin",
+      "name": "default-site-plugin",
+      "version": "a881843ba13890f8abd1d7ebe01b2db6",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/daniel/Desktop/node/git/updated-portfolio.git",
+      "packageJson": {
+        "name": "personal-portfolio",
+        "description": "A little about me and my projects",
+        "version": "1.0.0",
+        "author": "Daniel Marshall",
+        "dependencies": [
+          {
+            "name": "ajv",
+            "version": "^6.5.3"
+          },
+          {
+            "name": "bootstrap",
+            "version": "^4.1.3"
+          },
+          {
+            "name": "classnames",
+            "version": "^2.2.5"
+          },
+          {
+            "name": "font-awesome",
+            "version": "^4.7.0"
+          },
+          {
+            "name": "gatsby",
+            "version": "^1.9.250"
+          },
+          {
+            "name": "gatsby-image",
+            "version": "^1.0.45"
+          },
+          {
+            "name": "gatsby-link",
+            "version": "^1.6.39"
+          },
+          {
+            "name": "gatsby-plugin-google-analytics",
+            "version": "^1.0.31"
+          },
+          {
+            "name": "gatsby-plugin-manifest",
+            "version": "^1.0.27"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^2.0.11"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^1.6.43"
+          },
+          {
+            "name": "gatsby-plugin-sitemap",
+            "version": "^1.2.20"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^1.5.39"
+          },
+          {
+            "name": "gatsby-transformer-sharp",
+            "version": "^1.6.23"
+          },
+          {
+            "name": "jquery",
+            "version": "^3.3.1"
+          },
+          {
+            "name": "react",
+            "version": "^16.4.1"
+          },
+          {
+            "name": "react-bootstrap",
+            "version": "^0.32.1"
+          },
+          {
+            "name": "react-dom",
+            "version": "^16.4.1"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.2.0"
+          },
+          {
+            "name": "react-scrollchor",
+            "version": "^5.0.1"
+          },
+          {
+            "name": "react-scrollspy",
+            "version": "^3.3.5"
+          },
+          {
+            "name": "reactstrap",
+            "version": "^6.3.0"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "webpack",
+            "version": "^1.15.0"
+          }
+        ],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "932033cb4537338b0e04bb07d26ce6b3",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "Daniel Marshall || Home",
+        "description": "",
+        "siteUrl": "",
+        "author": "DanielMarshall"
+      },
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2019-02-16T16:18:58.471Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "1884dbfba423ab8a0fb20153ea3b11ad",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/data/ absPath of file": {
+      "id": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/data/ absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "c7929436089eb3eff15148445bd04959",
+        "type": "Directory",
+        "description": "Directory \"src/data\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "data",
+      "absolutePath": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/data/",
+      "relativePath": "",
+      "extension": "",
+      "size": 160,
+      "prettySize": "160 B",
+      "modifiedTime": "2019-02-16T03:18:10.000Z",
+      "accessTime": "2019-02-16T16:19:03.633Z",
+      "changeTime": "2019-02-16T15:21:37.232Z",
+      "birthTime": "2018-08-29T01:58:38.000Z",
+      "root": "/",
+      "dir": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src",
+      "base": "data",
+      "ext": "",
+      "name": "data",
+      "relativeDirectory": "..",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 5,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7974435,
+      "blocks": 0,
+      "atimeMs": 1550333943633.1973,
+      "mtimeMs": 1550287090000,
+      "ctimeMs": 1550330497231.8052,
+      "birthtimeMs": 1535507918000,
+      "atime": "2019-02-16T16:19:03.633Z",
+      "mtime": "2019-02-16T03:18:10.000Z",
+      "ctime": "2019-02-16T15:21:37.232Z",
+      "birthtime": "2018-08-29T01:58:38.000Z"
+    },
+    "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/data/.DS_Store absPath of file": {
+      "id": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/data/.DS_Store absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "9b5166239198238bd0f410d3211ddc5b",
+        "mediaType": "application/octet-stream",
+        "type": "File",
+        "description": "File \"src/data/.DS_Store\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "data",
+      "absolutePath": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/data/.DS_Store",
+      "relativePath": ".DS_Store",
+      "extension": "",
+      "size": 6148,
+      "prettySize": "6.15 kB",
+      "modifiedTime": "2019-02-16T15:21:50.594Z",
+      "accessTime": "2019-02-16T15:27:12.165Z",
+      "changeTime": "2019-02-16T15:21:50.594Z",
+      "birthTime": "2019-02-16T01:48:29.976Z",
+      "root": "/",
+      "dir": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/data",
+      "base": ".DS_Store",
+      "ext": "",
+      "name": ".DS_Store",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7974436,
+      "blocks": 16,
+      "atimeMs": 1550330832164.6248,
+      "mtimeMs": 1550330510593.7893,
+      "ctimeMs": 1550330510593.7893,
+      "birthtimeMs": 1550281709975.7148,
+      "atime": "2019-02-16T15:27:12.165Z",
+      "mtime": "2019-02-16T15:21:50.594Z",
+      "ctime": "2019-02-16T15:21:50.594Z",
+      "birthtime": "2019-02-16T01:48:29.976Z"
+    },
+    "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/data/contacts.json absPath of file": {
+      "id": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/data/contacts.json absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "06e90556b068e0786c15f56511fdbed4",
+        "mediaType": "application/json",
+        "type": "File",
+        "description": "File \"src/data/contacts.json\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "data",
+      "absolutePath": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/data/contacts.json",
+      "relativePath": "contacts.json",
+      "extension": "json",
+      "size": 402,
+      "prettySize": "402 B",
+      "modifiedTime": "2019-02-16T00:46:30.905Z",
+      "accessTime": "2019-02-16T15:21:52.030Z",
+      "changeTime": "2019-02-16T15:21:51.502Z",
+      "birthTime": "2018-08-29T01:58:38.000Z",
+      "root": "/",
+      "dir": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/data",
+      "base": "contacts.json",
+      "ext": ".json",
+      "name": "contacts",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7974438,
+      "blocks": 8,
+      "atimeMs": 1550330512029.6873,
+      "mtimeMs": 1550277990905.3318,
+      "ctimeMs": 1550330511502.433,
+      "birthtimeMs": 1535507918000,
+      "atime": "2019-02-16T15:21:52.030Z",
+      "mtime": "2019-02-16T00:46:30.905Z",
+      "ctime": "2019-02-16T15:21:51.502Z",
+      "birthtime": "2018-08-29T01:58:38.000Z"
+    },
+    "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/data/projects.json absPath of file": {
+      "id": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/data/projects.json absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "884a2423e80ee05bd69657cd35592ac8",
+        "mediaType": "application/json",
+        "type": "File",
+        "description": "File \"src/data/projects.json\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "data",
+      "absolutePath": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/data/projects.json",
+      "relativePath": "projects.json",
+      "extension": "json",
+      "size": 985,
+      "prettySize": "985 B",
+      "modifiedTime": "2019-02-16T02:38:09.243Z",
+      "accessTime": "2019-02-16T03:13:13.947Z",
+      "changeTime": "2019-02-16T03:10:20.569Z",
+      "birthTime": "2018-08-29T01:58:38.000Z",
+      "root": "/",
+      "dir": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/data",
+      "base": "projects.json",
+      "ext": ".json",
+      "name": "projects",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7974437,
+      "blocks": 8,
+      "atimeMs": 1550286793947.113,
+      "mtimeMs": 1550284689242.7773,
+      "ctimeMs": 1550286620568.9377,
+      "birthtimeMs": 1535507918000,
+      "atime": "2019-02-16T03:13:13.947Z",
+      "mtime": "2019-02-16T02:38:09.243Z",
+      "ctime": "2019-02-16T03:10:20.569Z",
+      "birthtime": "2018-08-29T01:58:38.000Z"
+    },
+    "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images absPath of file": {
+      "id": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "c29f2012b41b461b238614f246ae1f44",
+        "type": "Directory",
+        "description": "Directory \"src/images\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images",
+      "relativePath": "",
+      "extension": "",
+      "size": 192,
+      "prettySize": "192 B",
+      "modifiedTime": "2019-02-16T03:22:02.000Z",
+      "accessTime": "2019-02-16T16:19:03.644Z",
+      "changeTime": "2019-02-16T15:21:37.236Z",
+      "birthTime": "2018-08-29T01:58:38.000Z",
+      "root": "/",
+      "dir": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src",
+      "base": "images",
+      "ext": "",
+      "name": "images",
+      "relativeDirectory": "..",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 6,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7974404,
+      "blocks": 0,
+      "atimeMs": 1550333943644.433,
+      "mtimeMs": 1550287322000,
+      "ctimeMs": 1550330497235.6372,
+      "birthtimeMs": 1535507918000,
+      "atime": "2019-02-16T16:19:03.644Z",
+      "mtime": "2019-02-16T03:22:02.000Z",
+      "ctime": "2019-02-16T15:21:37.236Z",
+      "birthtime": "2018-08-29T01:58:38.000Z"
+    },
+    "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/projects absPath of file": {
+      "id": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/projects absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "cd76485f590376f95b02ceae131196ef",
+        "type": "Directory",
+        "description": "Directory \"src/images/projects\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/projects",
+      "relativePath": "projects",
+      "extension": "",
+      "size": 224,
+      "prettySize": "224 B",
+      "modifiedTime": "2019-02-16T03:22:02.000Z",
+      "accessTime": "2019-02-16T16:19:03.646Z",
+      "changeTime": "2019-02-16T15:21:37.347Z",
+      "birthTime": "2018-08-29T01:58:38.000Z",
+      "root": "/",
+      "dir": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images",
+      "base": "projects",
+      "ext": "",
+      "name": "projects",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 7,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7974407,
+      "blocks": 0,
+      "atimeMs": 1550333943646.2283,
+      "mtimeMs": 1550287322000,
+      "ctimeMs": 1550330497346.534,
+      "birthtimeMs": 1535507918000,
+      "atime": "2019-02-16T16:19:03.646Z",
+      "mtime": "2019-02-16T03:22:02.000Z",
+      "ctime": "2019-02-16T15:21:37.347Z",
+      "birthtime": "2018-08-29T01:58:38.000Z"
+    },
+    "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/.DS_Store absPath of file": {
+      "id": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/.DS_Store absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "4246f6ba779d99af8c6ceaba6faf645a",
+        "mediaType": "application/octet-stream",
+        "type": "File",
+        "description": "File \"src/images/.DS_Store\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/.DS_Store",
+      "relativePath": ".DS_Store",
+      "extension": "",
+      "size": 6148,
+      "prettySize": "6.15 kB",
+      "modifiedTime": "2019-02-16T15:21:45.583Z",
+      "accessTime": "2019-02-16T15:57:01.023Z",
+      "changeTime": "2019-02-16T15:21:45.583Z",
+      "birthTime": "2019-02-15T22:45:00.231Z",
+      "root": "/",
+      "dir": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images",
+      "base": ".DS_Store",
+      "ext": "",
+      "name": ".DS_Store",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7974406,
+      "blocks": 16,
+      "atimeMs": 1550332621023.1145,
+      "mtimeMs": 1550330505583.0957,
+      "ctimeMs": 1550330505583.0957,
+      "birthtimeMs": 1550270700231.1104,
+      "atime": "2019-02-16T15:57:01.023Z",
+      "mtime": "2019-02-16T15:21:45.583Z",
+      "ctime": "2019-02-16T15:21:45.583Z",
+      "birthtime": "2019-02-15T22:45:00.231Z"
+    },
+    "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/projects/cargif.png absPath of file": {
+      "id": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/projects/cargif.png absPath of file",
+      "children": [
+        "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/projects/cargif.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "30fc04dac20ef59f6f4b409703b8227e",
+        "mediaType": "image/png",
+        "type": "File",
+        "description": "File \"src/images/projects/cargif.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/projects/cargif.png",
+      "relativePath": "projects/cargif.png",
+      "extension": "png",
+      "size": 51633,
+      "prettySize": "51.6 kB",
+      "modifiedTime": "2019-02-16T02:31:52.328Z",
+      "accessTime": "2019-02-16T03:13:13.948Z",
+      "changeTime": "2019-02-16T03:10:20.510Z",
+      "birthTime": "2019-02-16T02:31:52.328Z",
+      "root": "/",
+      "dir": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/projects",
+      "base": "cargif.png",
+      "ext": ".png",
+      "name": "cargif",
+      "relativeDirectory": "projects",
+      "dev": 16777220,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7974412,
+      "blocks": 104,
+      "atimeMs": 1550286793947.685,
+      "mtimeMs": 1550284312328.0044,
+      "ctimeMs": 1550286620509.9446,
+      "birthtimeMs": 1550284312327.9104,
+      "atime": "2019-02-16T03:13:13.948Z",
+      "mtime": "2019-02-16T02:31:52.328Z",
+      "ctime": "2019-02-16T03:10:20.510Z",
+      "birthtime": "2019-02-16T02:31:52.328Z"
+    },
+    "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/projects/.DS_Store absPath of file": {
+      "id": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/projects/.DS_Store absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "194577a7e20bdcc7afbb718f502c134c",
+        "mediaType": "application/octet-stream",
+        "type": "File",
+        "description": "File \"src/images/projects/.DS_Store\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/projects/.DS_Store",
+      "relativePath": "projects/.DS_Store",
+      "extension": "",
+      "size": 6148,
+      "prettySize": "6.15 kB",
+      "modifiedTime": "2019-02-16T02:36:04.341Z",
+      "accessTime": "2019-02-16T15:21:52.008Z",
+      "changeTime": "2019-02-16T03:10:20.246Z",
+      "birthTime": "2019-02-16T02:36:04.341Z",
+      "root": "/",
+      "dir": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/projects",
+      "base": ".DS_Store",
+      "ext": "",
+      "name": ".DS_Store",
+      "relativeDirectory": "projects",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7974408,
+      "blocks": 16,
+      "atimeMs": 1550330512008.3254,
+      "mtimeMs": 1550284564341.214,
+      "ctimeMs": 1550286620245.5632,
+      "birthtimeMs": 1550284564340.843,
+      "atime": "2019-02-16T15:21:52.008Z",
+      "mtime": "2019-02-16T02:36:04.341Z",
+      "ctime": "2019-02-16T03:10:20.246Z",
+      "birthtime": "2019-02-16T02:36:04.341Z"
+    },
+    "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/projects/cargif.png absPath of file >> ImageSharp": {
+      "id": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/projects/cargif.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/projects/cargif.png absPath of file",
+      "internal": {
+        "contentDigest": "30fc04dac20ef59f6f4b409703b8227e",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/projects/jamesbond.png absPath of file": {
+      "id": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/projects/jamesbond.png absPath of file",
+      "children": [
+        "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/projects/jamesbond.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "49f47fdd87d0d091c3910ee0851faf3f",
+        "mediaType": "image/png",
+        "type": "File",
+        "description": "File \"src/images/projects/jamesbond.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/projects/jamesbond.png",
+      "relativePath": "projects/jamesbond.png",
+      "extension": "png",
+      "size": 83941,
+      "prettySize": "83.9 kB",
+      "modifiedTime": "2019-02-16T02:25:51.868Z",
+      "accessTime": "2019-02-16T03:13:13.948Z",
+      "changeTime": "2019-02-16T03:10:20.506Z",
+      "birthTime": "2019-02-16T02:25:51.868Z",
+      "root": "/",
+      "dir": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/projects",
+      "base": "jamesbond.png",
+      "ext": ".png",
+      "name": "jamesbond",
+      "relativeDirectory": "projects",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7974411,
+      "blocks": 168,
+      "atimeMs": 1550286793947.7234,
+      "mtimeMs": 1550283951868.0154,
+      "ctimeMs": 1550286620505.6433,
+      "birthtimeMs": 1550283951867.9248,
+      "atime": "2019-02-16T03:13:13.948Z",
+      "mtime": "2019-02-16T02:25:51.868Z",
+      "ctime": "2019-02-16T03:10:20.506Z",
+      "birthtime": "2019-02-16T02:25:51.868Z"
+    },
+    "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/projects/jamesbond.png absPath of file >> ImageSharp": {
+      "id": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/projects/jamesbond.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/projects/jamesbond.png absPath of file",
+      "internal": {
+        "contentDigest": "49f47fdd87d0d091c3910ee0851faf3f",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/Daniel.jpg absPath of file": {
+      "id": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/Daniel.jpg absPath of file",
+      "children": [
+        "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/Daniel.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "29f3b161b55db9dc0fb8ffa1cbdbf853",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "description": "File \"src/images/Daniel.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/Daniel.jpg",
+      "relativePath": "Daniel.jpg",
+      "extension": "jpg",
+      "size": 848742,
+      "prettySize": "849 kB",
+      "modifiedTime": "2018-06-03T18:00:08.786Z",
+      "accessTime": "2019-02-16T03:13:13.947Z",
+      "changeTime": "2019-02-16T03:10:20.323Z",
+      "birthTime": "2018-06-03T18:00:08.498Z",
+      "root": "/",
+      "dir": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images",
+      "base": "Daniel.jpg",
+      "ext": ".jpg",
+      "name": "Daniel",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7974413,
+      "blocks": 1664,
+      "atimeMs": 1550286793947.4167,
+      "mtimeMs": 1528048808785.5361,
+      "ctimeMs": 1550286620323.1897,
+      "birthtimeMs": 1528048808498.4912,
+      "atime": "2019-02-16T03:13:13.947Z",
+      "mtime": "2018-06-03T18:00:08.786Z",
+      "ctime": "2019-02-16T03:10:20.323Z",
+      "birthtime": "2018-06-03T18:00:08.498Z"
+    },
+    "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/Daniel.jpg absPath of file >> ImageSharp": {
+      "id": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/Daniel.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/Daniel.jpg absPath of file",
+      "internal": {
+        "contentDigest": "29f3b161b55db9dc0fb8ffa1cbdbf853",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/projects/starwarsrpg.png absPath of file": {
+      "id": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/projects/starwarsrpg.png absPath of file",
+      "children": [
+        "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/projects/starwarsrpg.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "9c6336b0977fc1b957e40004f343a228",
+        "mediaType": "image/png",
+        "type": "File",
+        "description": "File \"src/images/projects/starwarsrpg.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/projects/starwarsrpg.png",
+      "relativePath": "projects/starwarsrpg.png",
+      "extension": "png",
+      "size": 1342336,
+      "prettySize": "1.34 MB",
+      "modifiedTime": "2019-02-16T02:28:30.995Z",
+      "accessTime": "2019-02-16T03:13:13.948Z",
+      "changeTime": "2019-02-16T03:10:20.502Z",
+      "birthTime": "2019-02-16T02:28:30.994Z",
+      "root": "/",
+      "dir": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/projects",
+      "base": "starwarsrpg.png",
+      "ext": ".png",
+      "name": "starwarsrpg",
+      "relativeDirectory": "projects",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7974410,
+      "blocks": 2624,
+      "atimeMs": 1550286793947.8513,
+      "mtimeMs": 1550284110994.601,
+      "ctimeMs": 1550286620501.7703,
+      "birthtimeMs": 1550284110993.9746,
+      "atime": "2019-02-16T03:13:13.948Z",
+      "mtime": "2019-02-16T02:28:30.995Z",
+      "ctime": "2019-02-16T03:10:20.502Z",
+      "birthtime": "2019-02-16T02:28:30.994Z"
+    },
+    "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/projects/starwarsrpg.png absPath of file >> ImageSharp": {
+      "id": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/projects/starwarsrpg.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/projects/starwarsrpg.png absPath of file",
+      "internal": {
+        "contentDigest": "9c6336b0977fc1b957e40004f343a228",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/projects/signal.png absPath of file": {
+      "id": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/projects/signal.png absPath of file",
+      "children": [
+        "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/projects/signal.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "d2ee0268de7a6d3afcff37a5256eae83",
+        "mediaType": "image/png",
+        "type": "File",
+        "description": "File \"src/images/projects/signal.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/projects/signal.png",
+      "relativePath": "projects/signal.png",
+      "extension": "png",
+      "size": 2111650,
+      "prettySize": "2.11 MB",
+      "modifiedTime": "2019-02-16T02:17:47.296Z",
+      "accessTime": "2019-02-16T03:13:13.948Z",
+      "changeTime": "2019-02-16T03:10:20.497Z",
+      "birthTime": "2019-02-16T02:17:47.295Z",
+      "root": "/",
+      "dir": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/projects",
+      "base": "signal.png",
+      "ext": ".png",
+      "name": "signal",
+      "relativeDirectory": "projects",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7974409,
+      "blocks": 4128,
+      "atimeMs": 1550286793947.7612,
+      "mtimeMs": 1550283467296.027,
+      "ctimeMs": 1550286620496.746,
+      "birthtimeMs": 1550283467295.0425,
+      "atime": "2019-02-16T03:13:13.948Z",
+      "mtime": "2019-02-16T02:17:47.296Z",
+      "ctime": "2019-02-16T03:10:20.497Z",
+      "birthtime": "2019-02-16T02:17:47.295Z"
+    },
+    "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/projects/signal.png absPath of file >> ImageSharp": {
+      "id": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/projects/signal.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/projects/signal.png absPath of file",
+      "internal": {
+        "contentDigest": "d2ee0268de7a6d3afcff37a5256eae83",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/dallasSkyline.jpeg absPath of file": {
+      "id": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/dallasSkyline.jpeg absPath of file",
+      "children": [
+        "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/dallasSkyline.jpeg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "3e8966f8463c2978ce6b177e4f8a9a8e",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "description": "File \"src/images/dallasSkyline.jpeg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/dallasSkyline.jpeg",
+      "relativePath": "dallasSkyline.jpeg",
+      "extension": "jpeg",
+      "size": 3786189,
+      "prettySize": "3.79 MB",
+      "modifiedTime": "2018-07-20T23:06:42.370Z",
+      "accessTime": "2019-02-16T03:13:13.947Z",
+      "changeTime": "2019-02-16T03:10:20.314Z",
+      "birthTime": "2018-07-20T23:06:37.464Z",
+      "root": "/",
+      "dir": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images",
+      "base": "dallasSkyline.jpeg",
+      "ext": ".jpeg",
+      "name": "dallasSkyline",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 7974405,
+      "blocks": 8304,
+      "atimeMs": 1550286793947.477,
+      "mtimeMs": 1532128002370.4126,
+      "ctimeMs": 1550286620314.4712,
+      "birthtimeMs": 1532127997464.284,
+      "atime": "2019-02-16T03:13:13.947Z",
+      "mtime": "2018-07-20T23:06:42.370Z",
+      "ctime": "2019-02-16T03:10:20.314Z",
+      "birthtime": "2018-07-20T23:06:37.464Z"
+    },
+    "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/dallasSkyline.jpeg absPath of file >> ImageSharp": {
+      "id": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/dallasSkyline.jpeg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/dallasSkyline.jpeg absPath of file",
+      "internal": {
+        "contentDigest": "3e8966f8463c2978ce6b177e4f8a9a8e",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "SitePage /": {
+      "layout": null,
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "469038862c1bcc1bfd6a45361bf8db26",
+        "description": "Plugin component-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "95aa382b5dbc24eb4969257c90335f15"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "Site": [
+        "/"
+      ],
+      "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/dallasSkyline.jpeg absPath of file >> ImageSharp": [
+        "/"
+      ],
+      "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/dallasSkyline.jpeg absPath of file": [
+        "/"
+      ],
+      "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/Daniel.jpg absPath of file >> ImageSharp": [
+        "/"
+      ],
+      "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/Daniel.jpg absPath of file": [
+        "/"
+      ],
+      "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/projects/cargif.png absPath of file >> ImageSharp": [
+        "/"
+      ],
+      "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/projects/cargif.png absPath of file": [
+        "/"
+      ],
+      "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/projects/jamesbond.png absPath of file >> ImageSharp": [
+        "/"
+      ],
+      "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/projects/jamesbond.png absPath of file": [
+        "/"
+      ],
+      "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/projects/signal.png absPath of file >> ImageSharp": [
+        "/"
+      ],
+      "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/projects/signal.png absPath of file": [
+        "/"
+      ],
+      "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/projects/starwarsrpg.png absPath of file >> ImageSharp": [
+        "/"
+      ],
+      "/Users/daniel/Desktop/node/git/updated-portfolio.git/src/images/projects/starwarsrpg.png absPath of file": [
+        "/"
+      ]
+    },
+    "connections": {
+      "SitePage": [
+        "/dev-404-page/"
+      ],
+      "File": [
+        "/"
+      ]
+    }
+  }
+}
