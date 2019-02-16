@@ -20,7 +20,7 @@ const AboutMe = ({ profileImg, hobbyImgs }) => {
           <div className="col-12 col-sm-12 col-md-6">
             <h4>A Little About Me</h4>
             <p>
-              Hello world....
+              My name is Daniel Marshall and I am a Realtor in Dallas, Tx studying full stack web development.
             </p>
             
           </div>
