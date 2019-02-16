@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Github",
+    "icon": "github",
+    "type": "social-media",
+    "url": "https://github.com/DanBrit"
+  },
+  {
+    "name": "Linkedin",
+    "icon": "linkedin",
+    "type": "social-media",
+    "url": "https://www.linkedin.com/in/daniel-marshall-891ba9ab/"
+  },
+  {
+    "name": "Email",
+    "icon": "envelope",
+    "type": "email",
+    "url": "mailto:dan.britain.marshall@gmail.com"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Signal",
+    "type": "front-end",
+    "description": "A simple, easy to use website that allows business travelers to find their favorite food, events, & activities without having to sort through pages of reviews or guess blindly.",
+    "img": "signal.png",
+    "url": "https://crcass.github.io/project-one/"
+  },
+  {
+    "name": "Trivia Game",
+    "type": "front-end",
+    "description": "A Simple James Bond Trivia Game.",
+    "img": "jamesbond.png",
+    "url": "https://danbrit.github.io/TriviaGame/"
+  },
+  {
+    "name": "Star Wars RPG Game",
+    "type": "front-end",
+    "description": "Basic Star Wars RPG utilizing object constructor function.",
+    "img": "starwarsrpg.png",
+    "url": "https://danbrit.github.io/unit-4-game/"
+  },
+  {
+    "name": "Giftastic",
+    "type": "front-end",
+    "description": "Uses the Giphy API to demonstrate basic API principals.",
+    "img": "cargif.png",
+    "url": "https://maribelduran.github.io/camper-leaderboard"
+  }
+]
