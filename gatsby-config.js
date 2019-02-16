@@ -1,10 +1,12 @@
 module.exports = {
   siteMetadata: {
     title: "Daniel Marshall || Home",
+    pathPrefix: "/updated-portfolio2",
     description:
       "",
     siteUrl: "",
     author: "DanielMarshall"
+
   },
   plugins: [
     {

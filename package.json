@@ -5,7 +5,8 @@
   "scripts": {
     "develop": "gatsby develop",
     "build": "gatsby build",
-    "serve": "gatsby serve"
+    "serve": "gatsby serve",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   },
   "repository": {
     "type": "git",
@@ -37,5 +38,5 @@
     "reactstrap": "^6.3.0",
     "unist-util-select": "^1.5.0",
     "webpack": "^1.15.0"
-  }
+  },
 }
