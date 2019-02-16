@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/updated-portfolio2",
   siteMetadata: {
     title: "Daniel Marshall || Home",
     description:
